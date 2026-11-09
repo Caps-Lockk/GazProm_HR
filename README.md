@@ -6,9 +6,7 @@
 **Intelligence Cup 2026 · Кейс «HR и бренд работодателя»**
 
 ![Кейс](https://img.shields.io/badge/кейс-HR%20и%20бренд%20работодателя-0072CE)
-![Дедлайн](https://img.shields.io/badge/финал-26.11-orange)
 ![Слайдов](https://img.shields.io/badge/слайдов-12-blue)
-![Статус](https://img.shields.io/badge/статус-черновик-yellow)
 
 </div>
 
